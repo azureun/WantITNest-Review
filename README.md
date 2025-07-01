@@ -50,6 +50,12 @@ WantIT-Nest는 IT융합대학 구성원이 함께 연결되고, 함께 성장하
 **🛠 시스템 아키텍쳐**
 
 
+### 💾 원본 Repository (Github Organization)
+- Front-end : [chosun-nest/Nest-FE](https://github.com/chosun-nest/Nest-FE)
+- Back-end : [chosun-nest/Nest-BE](https://github.com/chosun-nest/Nest-BE)
+- Crawl : [NEST-AI/tree/dev](https://github.com/chosun-nest/NEST-AI/tree/dev)
+- Chat-bot : [Nest-CB/tree/dev](https://github.com/chosun-nest/Nest-CB/tree/dev)
+
 ## 🔭 주요 기능
 - 
 
