@@ -31,6 +31,7 @@ WantIT-Nest는 IT융합대학 구성원이 함께 연결되고, 함께 성장하
     - React + TypeScript 기반 SPA(Single Page Application)
 
 ## ⚙️ 기술 스택 및 아키텍쳐
+**기술 스택**<br>
 - Frontend
     - React.js, TypeScript, TailwindCSS, Styled-Components
     - React Router, Redux Toolkit, React Markdown
@@ -47,8 +48,8 @@ WantIT-Nest는 IT융합대학 구성원이 함께 연결되고, 함께 성장하
     - AWS EC2 기반 2-Tier 구조 (Public + Private Subnet)
     - GitLab + Git Subtree (멀티 레포지터리 통합 관리, 학교 과제 제출용)
 
-**🛠 시스템 아키텍쳐**
-
+**시스템 아키텍쳐**<br>
+<img src="./review-src/WantIT-Nest System Architecture.png" width="500" height="550" />
 
 ### 💾 원본 Repository (Github Organization)
 - Front-end : [chosun-nest/Nest-FE](https://github.com/chosun-nest/Nest-FE)
