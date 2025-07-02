@@ -68,15 +68,124 @@ WantIT-Nest는 IT융합대학 구성원이 함께 연결되고, 함께 성장하
 - 실시간 채팅: 팔로우 기반 1:1 및 그룹 채팅 지원 (Socket.IO)
 - AI 챗봇: OpenAI GPT-4o API를 활용한 FAQ + 자유 질문 응답 기능
 
-## 💻 주요 화면
+## 💻 주요 화면/기능
+
+> ### **로그인/회원가입**
+
+- 로그인/비밀번호 재설정
 <table>
   <tr>
-    <td><img src="./review-src/"  width="500" height="200"/></td>
-    <td><img src="./review-src/"  width="500" height="200"/></td>
+    <td><img src="./review-src/로그인 페이지.png" width="400" height="200"/></td>
+    <td><img src="./review-src/비밀번호 재설정 페이지.png" width="400" height="200"/></td>
   </tr>
-    <td align="center"><b>메인 화면1</b></td>
-    <td align="center"><b>메인 화면2</b></td>
+    <td align="center"><b>로그인 페이지</b></td>
+    <td align="center"><b>비밀번호 재설정 페이지</b></td>
 </table>
+
+- 회원가입 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/회원가입 페이지1.png" width="400" height="200"/></td>
+    <td><img src="./review-src/회원가입 페이지2.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>회원가입 페이지1</b></td>
+    <td align="center"><b>회원가입 페이지2</b></td>
+</table>
+
+---
+
+> ### **메인 페이지**
+<table>
+  <tr>
+    <td><img src="./review-src/메인페이지(로그인 전).png" width="400" height="300"/></td>
+    <td><img src="./review-src/메인페이지(로그인 후).png" width="400" height="350"/></td>
+  </tr>
+    <td align="center"><b>메인페이지(로그인 전)</b></td>
+    <td align="center"><b>메인페이지(로그인 후)</b></td>
+</table>
+
+---
+
+> ### **프로필**
+
+- 프로필 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/본인 프로필 페이지.png" width="400" height="320"/></td>
+    <td><img src="./review-src/다른 사용자 프로필 페이지.png" width="400" height="320"/></td>
+  </tr>
+    <td align="center"><b>본인 프로필 페이지</b></td>
+    <td align="center"><b>다른 사용자 프로필 페이지</b></td>
+</table>
+
+- 팔로잉 기능
+<table>
+  <tr>
+    <td><img src="./review-src/본인 팔로워 목록.png" width="400" height="200"/></td>
+    <td><img src="./review-src/다른 사용자 팔로잉 목록.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>본인 팔로워 목록</b></td>
+    <td align="center"><b>다른 사용자 팔로잉 목록</b></td>
+</table>
+
+---
+
+> ### **회원 정보 수정 페이지**
+<table>
+  <tr>
+    <td><img src="./review-src/회원정보 수정 페이지.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>회원정보 수정 페이지</b></td>
+</table>
+
+---
+
+> ### **공지사항 게시판**
+
+- 공지사항 게시판 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/공지사항 게시판 페이지.png" width="400" height="200"/></td>
+    <td><img src="./review-src/IT융합대학 선택.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>공지사항 게시판 페이지</b></td>
+    <td align="center"><b>IT융합대학 선택</b></td>
+</table>
+
+---
+
+> ### **관심분야 정보 게시판**
+
+- 관심분야 정보 게시판 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/관심분야 정보 게시판 페이지 1.png" width="400" height="200"/></td>
+    <td><img src="./review-src/관심분야 정보 게시판 페이지 2.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>관심분야 정보 게시판 페이지 1</b></td>
+    <td align="center"><b>관심분야 정보 게시판 페이지 2</b></td>
+</table>
+
+- 관심분야 정보 게시글 상세 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/관심분야 정보 게시글 상세 1.png" width="400" height="200"/></td>
+    <td><img src="./review-src/관심분야 정보 게시글 상세 2.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>관심분야 정보 게시글 상세 1</b></td>
+    <td align="center"><b>관심분야 정보 게시글 상세 2</b></td>
+</table>
+
+- 관심분야 정보/프로젝트 모집 글쓰기 페이지
+<table>
+  <tr>
+    <td><img src="./review-src/관심분야 정보 글쓰기 페이지.png" width="400" height="200"/></td>
+    <td><img src="./review-src/프로젝트 모집 글쓰기 페이지.png" width="400" height="200"/></td>
+  </tr>
+    <td align="center"><b>관심분야 정보 글쓰기 페이지</b></td>
+    <td align="center"><b>프로젝트 모집 글쓰기 페이지</b></td>
+</table>
+
 
 ## 👩🏻‍💻 담당 역할 및 기여 (기여도: 약 25%)
 
@@ -86,8 +195,4 @@ WantIT-Nest는 IT융합대학 구성원이 함께 연결되고, 함께 성장하
 | 🪪 프로필 관련 | - 본인/타인 프로필 카드 구성 (사용자 정보, 기술 스택, SNS 링크, 팔로우/언팔로우 상태)<br>- 회원 정보 수정: 프로필 이미지 업로드, 학과·기술 스택 검색, SNS 링크 설정<br>- 비밀번호 변경 및 회원 탈퇴 처리 (모달, API 연동 포함) |
 | 🖼️ 게시판 관련 | - 게시판 페이지: 검색, 정렬(좋아요순/최신순), 게시글 카드 렌더링<br>- 글쓰기 버튼 분기 처리, 태그 검색(다중 선택 최대 10개)<br>- 글쓰기 페이지: 게시글 유형 드롭다운(관심분야/프로젝트), 태그 선택<br>- 게시글 상세: 게시글 CRUD, 프로필 이동, 반응 처리(좋아요/싫어요/공유)<br>- 댓글/대댓글: CRUD, 멘션(@), 트리 구성, 반응 처리 |
 | 🧩 공통 컴포넌트 | - 모달, 토스트, 버튼, 로딩 스켈레톤 등 UI 컴포넌트 개발 및 적용 |
-
-## 🎨 Figma 프로토타입 디자인
-
-
 
